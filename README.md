@@ -1,34 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/NewHappen-Company/education-biodex/blob/main/public/logo.svg?raw=true" height="150" width="175" alt="Biodex" />
+  </a>
+</p>
 
-## Getting Started
+<p align="center">Um formulário simples para cadastro de plantas.</p>
 
-First, run the development server:
+<div align="center">
+
+[![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)<space><space>
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<space><space>
+[![ChakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)<space><space>
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## Overview
+
+- **[Sobre](#sobre)**
+- **[Fazendo clone](#git-clone)**
+- **[Instalação](#instalacao)**
+- **[Figma](#figma)**
+- **[Licensa](#license)**
+
+<h4 align="center"> 
+	🚧  Biodex 🚀 Em construção...  🚧
+</h4>
+
+<a id='#sobre'><a>
+
+### Sobre
+A aplicação Biodex foi proposta com o objetivo de treinar as habilidades voltadas para o desenvolvimento front-end e revisar conceitos do NextJS, JAMStack, responsividade e design.
+
+<a id='git-clone'></a>
+
+### Fazendo clone
+Para iniciar, primeiro deve-se abrir no seu terminal a pasta que deseja clonar a aplicação e colar o seguinte código
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone <https://github.com/NewHappen-Company/education-biodex.git>
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Após isso poderá seguir para o próximo passo.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+<a id='instalacao'></a>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### Instalação
+Entre na pasta em que clonou o projeto e utilize o código abaixo para baixar as dependências da aplicação
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+# Baixe as dependências utilizando yarn (ou npm)
+$ yarn
+```
 
-## Learn More
+<a id='figma'></a>
 
-To learn more about Next.js, take a look at the following resources:
+### Figma
+Para acessar o design a ser replicado clique no link: [Design](https://www.figma.com/file/5kQgdjZNS8ZEimBgximkAg/teste?node-id=0%3A1)
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/NewHappen-Company/education-biodex/blob/main/public/design.png?raw=true" alt="Biodex Form" />
+  </a>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<a id='license'></a>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Licensa
+[MIT](/.github/LICENSE.md).
