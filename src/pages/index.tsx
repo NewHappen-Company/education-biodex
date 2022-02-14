@@ -3,7 +3,7 @@ import { FiImage } from 'react-icons/fi'
 import type { NextPage } from 'next'
 const Home: NextPage = () => {
   return (
-    <div className="w-screen h-screen bg-black flex items-center justify-center">
+    <div className="w-screen h-screen bg-[#F8F8F8] flex items-center justify-center">
       <Box 
       w='33rem' 
       h='41rem' 
